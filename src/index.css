@@ -1,0 +1,18 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff !important;
+  color: #000000 !important;
+  font-family: "Inter", Arial, sans-serif;
+  height: 100%;
+}
+
+#root {
+  background-color: #ffffff;
+  min-height: 100vh;
+}
+
+* {
+  box-sizing: border-box;
+}
